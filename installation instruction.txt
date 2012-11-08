@@ -1,0 +1,12 @@
+Installation instructions
+
+1> extract the "pnx tab .zip "
+2> in chrome go to setings 
+    or copy paste following and press enter
+	chrome://chrome/extensions/
+3> check the devloper mode in right side 
+4> click load unpacked extension
+5> select unzipped folder
+6> click ok 
+7> congrats you got tabby installed
+8> enable and enjoy new tab page :)
